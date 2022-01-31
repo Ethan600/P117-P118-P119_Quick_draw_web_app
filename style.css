@@ -1,0 +1,33 @@
+body{
+    background-color: aqua;
+}
+
+#score{
+    font-size: 30px;
+    margin-left: 30px;
+    float: left;
+}
+
+#timer{
+    font-size: 30px;
+    float: right;
+    margin-right: 30px;
+}
+
+#Sketch_to_be_drawn{
+    color: white;
+}
+
+#show_sketch{
+    float: right;
+}
+
+p{
+    padding-top: 10px;
+    font-size: 25px;
+}
+
+h1{
+    background-color: cornsilk;
+    color: greenyellow;
+}
